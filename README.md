@@ -15,7 +15,7 @@ in Visual Studio Code.
 
 ## Create Event Listeners on DOM Nodes with `addEventListener()`
 
-In order for JavaScript to handle an event, we first need to tell it to listen
+In order for JavaScript tophase-0-javascript-events-event-listening-lab handle an event, we first need to tell it to listen
 for that event. We do this by calling the `addEventListener()` method on the
 element we want to add the listener to, and passing it two arguments:
 
